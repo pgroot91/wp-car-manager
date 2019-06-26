@@ -45,7 +45,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 									</div>
 								</td>
 								<td class="slug column-slug"><?php echo $item['slug']; ?></td>
-								<td class="slug column-slug">
+								<td class="slug column-models">
 									<?php 
 										$wpcm_model_count = count( get_term_children( $item['id'], 'wpcm_make_model' ) );
                                 						echo $wpcm_model_count;

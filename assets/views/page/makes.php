@@ -48,7 +48,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 								<td class="slug column-models">
 									<?php 
 										$wpcm_model_count = count( get_term_children( $item['id'], 'wpcm_make_model' ) );
-                                						echo $wpcm_model_count;
+										$wpcm_total_models_text = sprintf( _n( '%s Model', '%s Models', $wpcm_model_count, 'wp-car-manager' ), $wpcm_model_count );
+                                						echo $wpcm_total_models_text;
 									?>
 								</td>
 								<td class="column-configure">

@@ -42,4 +42,4 @@ Tooltips are done with [TippedJS](http://www.tippedjs.com/).
 
 Here you will find a selection of wp-car-manager extensions from 3th party developers.
 
-1) [FPCS WPCM Recent Cars](https://github.com/FPCSJames/fpcs-wpcm-recent-cars), A widget to show recently-added vehicles from WP Car Manager. *(free)*
+1) [FPCS WPCM Recent Cars](https://github.com/FPCSJames/fpcs-wpcm-recent-cars), A widget to show recently-added vehicles from WP Car Manager. **(Free)**

@@ -29,10 +29,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-### 3th Party Plugins
-
-1) [FPCS WPCM Recent Cars](https://github.com/FPCSJames/fpcs-wpcm-recent-cars), A widget to show recently-added vehicles from WP Car Manager.
-
 ### Credits
 Dependency Injection is done by [Pimple](https://github.com/silexphp/Pimple).
 Template structure heavily inspired by [WooCommerce](https://github.com/woothemes/woocommerce).
@@ -41,3 +37,7 @@ Image gallery created with [prettyPhoto](http://www.no-margin-for-errors.com/pro
 PHP version compatibility checks done by [WPupdatePHP](https://github.com/WPupdatePHP/wp-update-php).
 Steering Wheel icon made by [Freepik](http://www.flaticon.com/authors/freepik).
 Tooltips are done with [TippedJS](http://www.tippedjs.com/).
+
+# 3th Party Plugins
+
+1) [FPCS WPCM Recent Cars](https://github.com/FPCSJames/fpcs-wpcm-recent-cars), A widget to show recently-added vehicles from WP Car Manager.

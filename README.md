@@ -31,7 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ### 3th Party Plugins
 
-1) [FPCS WPCM Recent Cars](https://github.com/FPCSJames/fpcs-wpcm-recent-cars) A widget to show recently-added vehicles from WP Car Manager.
+1) [FPCS WPCM Recent Cars](https://github.com/FPCSJames/fpcs-wpcm-recent-cars), A widget to show recently-added vehicles from WP Car Manager.
 
 ### Credits
 Dependency Injection is done by [Pimple](https://github.com/silexphp/Pimple).

@@ -1,18 +1,18 @@
-WP Car Manager
+# WP Car Manager
 
 The easiest way to manage, list and sell your cars online using WordPress.
 
-**PHP Requirement**
+### PHP Requirement
 
 This plugin requires PHP version 5.3 or higher.
 
-**Documentation**
+### Documentation
 For documentation, please visit our [Knowledge Base](http://www.wpcarmanager.com/kb/).
 
-**Support**
+### Support
 For support, please visit our [Contact Page](http://www.wpcarmanager.com/contact/).
 
-**License**
+### License
 
 GPLv2 or later.
 
@@ -29,7 +29,11 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-**Credits**
+### 3th Party Plugins
+
+1) [FPCS WPCM Recent Cars](https://github.com/FPCSJames/fpcs-wpcm-recent-cars) A widget to show recently-added vehicles from WP Car Manager.
+
+### Credits
 Dependency Injection is done by [Pimple](https://github.com/silexphp/Pimple).
 Template structure heavily inspired by [WooCommerce](https://github.com/woothemes/woocommerce).
 Improved select experience by [Select2](https://github.com/select2/select2).

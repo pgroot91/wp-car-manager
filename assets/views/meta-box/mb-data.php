@@ -15,10 +15,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 					// getter method for value
 					$get_method = 'get_' . $field['key'];
 					$value      = $vehicle->$get_method();
+					
+					// Get date format wp setting
+					$date_format = get_option( 'date_format' );
 
 					if ( 'date' === $field['type'] ) {
 						if ( null != $value && ! empty( $value ) ) {
-							$value = $value->format( 'Y-m-d' );
+							$value = $value->format( $date_format );
 						}
 					}
 

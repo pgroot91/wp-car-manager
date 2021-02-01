@@ -43,3 +43,4 @@ Tooltips are done with [TippedJS](http://www.tippedjs.com/).
 Here you will find a selection of wp-car-manager extensions from 3th party developers.
 
 1) [FPCS WPCM Recent Cars](https://github.com/FPCSJames/fpcs-wpcm-recent-cars), A widget to show recently-added vehicles from WP Car Manager. **(Free)**
+1) [WP Car Manager - OpenData RDW Kenteken Voertuiginformatie](https://wordpress.org/plugins/wp-car-manager-opendata-rdw-kenteken-voertuiginformatie), Eenvoudig je advertentie voorzien van voertuiginformatie op basis van het nederlands kenteken. **(Free)**
